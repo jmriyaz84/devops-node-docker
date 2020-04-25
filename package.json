@@ -1,0 +1,24 @@
+{
+  "name": "code-connect-devops-node-docker",
+  "version": "1.0.0",
+  "description": "Simple HTTP server using Node JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmriyaz84/devops-node-docker"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "jmriyaz84@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "test": ">=0.6.0"
+  }
+}
